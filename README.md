@@ -1,0 +1,1 @@
+Analyzed a Belgian e-commerce dataset to uncover order delays, customer behavior, and seller performance. Identified that 34 sellers were responsible for 80 out of every 100 delays. Conducted RFM analysis for customer segmentation
